@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QUEENNILU;;;M6sEyQTS#0wUAxcbrskBxVg_nr-BbZyM_5yIhQxmDzDSmDVAJ3r0' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = ''
@@ -23,9 +23,9 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94701341953'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'cuti_appo'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
